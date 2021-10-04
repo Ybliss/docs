@@ -1,6 +1,6 @@
 ---
-title: Archiving cards on a project board
-intro: You can archive project board cards to declutter your workflow without losing the historical context of a project.
+title: Ybliss Omooba music News
+intro: fast rising afrohiphop artist 
 redirect_from:
   - /github/managing-your-work-on-github/tracking-the-progress-of-your-work-with-project-boards/archiving-cards-on-a-project-board
   - /articles/archiving-cards-on-a-project-board
